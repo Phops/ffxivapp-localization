@@ -43,12 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="English\Locale.Radar.cs" />
     <Compile Include="French\Locale.Client.cs" />
     <Compile Include="French\Locale.cs" />
     <Compile Include="French\Locale.Event.cs" />
     <Compile Include="French\Locale.Informer.cs" />
     <Compile Include="French\Locale.Log.cs" />
     <Compile Include="French\Locale.Parse.cs" />
+    <Compile Include="French\Locale.Radar.cs" />
     <Compile Include="French\Locale.Widgets.cs" />
     <Compile Include="German\Locale.Client.cs" />
     <Compile Include="German\Locale.cs" />
@@ -56,6 +58,7 @@
     <Compile Include="German\Locale.Informer.cs" />
     <Compile Include="German\Locale.Log.cs" />
     <Compile Include="German\Locale.Parse.cs" />
+    <Compile Include="German\Locale.Radar.cs" />
     <Compile Include="German\Locale.Widgets.cs" />
     <Compile Include="Japanese\Locale.Client.cs" />
     <Compile Include="Japanese\Locale.cs" />
@@ -63,6 +66,7 @@
     <Compile Include="Japanese\Locale.Informer.cs" />
     <Compile Include="Japanese\Locale.Log.cs" />
     <Compile Include="Japanese\Locale.Parse.cs" />
+    <Compile Include="Japanese\Locale.Radar.cs" />
     <Compile Include="Japanese\Locale.Widgets.cs" />
     <Compile Include="English\Locale.Log.cs" />
     <Compile Include="English\Locale.Widgets.cs" />

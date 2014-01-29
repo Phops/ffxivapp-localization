@@ -47,6 +47,11 @@ namespace FFXIVAPP.Localization.Japanese
             Dictionary.Add("event_VolumeHeader", "音量");
             Dictionary.Add("event_VolumeLabel", "音量:");
             Dictionary.Add("event_TestSoundButtonText", "テスト");
+            Dictionary.Add("event_GitHubButtonText", "Open Project Source (GitHub)");
+            Dictionary.Add("event_EventOptionsHeader", "Event Options");
+            Dictionary.Add("event_SoundOptionsHeader", "Sound Options");
+            Dictionary.Add("event_ExecutableOptionsHeader", "Executable Options");
+            Dictionary.Add("event_GlobalVolumeHeader", "Global Volume");
         }
     }
 }

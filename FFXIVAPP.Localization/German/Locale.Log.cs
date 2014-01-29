@@ -52,6 +52,7 @@ namespace FFXIVAPP.Localization.German
             Dictionary.Add("log_TranslateYellHeader", "Yell übersetzen");
             Dictionary.Add("log_EnableAllHeader", "Enable All");
             Dictionary.Add("log_TranslateAllianceHeader", "Alliance");
+            Dictionary.Add("log_GitHubButtonText", "Open Project Source (GitHub)");
         }
     }
 }

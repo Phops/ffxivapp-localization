@@ -49,6 +49,10 @@ namespace FFXIVAPP.Localization.Japanese
             Dictionary.Add("informer_EnmityHeader", "敵対グループ:");
             Dictionary.Add("informer_NameLabel", "名前:");
             Dictionary.Add("informer_EnmityPercentHeader", "敵対%");
+            Dictionary.Add("informer_GitHubButtonText", "Open Project Source (GitHub)");
+            Dictionary.Add("informer_StatusEntriesHeader", "Status Entries");
+            Dictionary.Add("informer_DurationHeader", "Duration");
+            Dictionary.Add("informer_IDHeader", "ID");
         }
     }
 }

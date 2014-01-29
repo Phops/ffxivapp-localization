@@ -42,8 +42,19 @@ namespace FFXIVAPP.Localization.English
             Dictionary.Add("widgets_EnmityWidgetHeader", "Enmity Widget");
             Dictionary.Add("widgets_FocusWidgetHeader", "Focus Target Widget");
             Dictionary.Add("widgets_CurrentWidgetHeader", "Current Target Widget");
-            Dictionary.Add("widgets_EnableClickThroughHeader", "Enabled Click-Through On Widgets");
+            Dictionary.Add("widgets_EnableClickThroughHeader", "Enable Click-Through On Widgets");
             Dictionary.Add("widgets_WidgetOpacityHeader", "Widget Opacity");
+            Dictionary.Add("widgets_GitHubButtonText", "Open Project Source (GitHub)");
+            Dictionary.Add("widgets_ShowTitlesOnWidgetsHeader", "Show Titles On Widgets");
+            Dictionary.Add("widgets_ColorsTabHeader", "Colors");
+            Dictionary.Add("widgets_DefaultProgressBarForegroundHeader", "Default Progress Bar Foreground");
+            Dictionary.Add("widgets_UIScaleHeader", "UI Scale");
+            Dictionary.Add("widgets_SortDirectionHeader", "Sort Direction");
+            Dictionary.Add("widgets_SortPropertyHeader", "Sort Property");
+            Dictionary.Add("widgets_DisplayPropertyHeader", "Display Property");
+            Dictionary.Add("widgets_PlayerVisibilityThresholdHeader", "Player Visibility Threshold");
+            Dictionary.Add("widgets_EnmityShowCurrentTargetInfoHeader", "Show Current Target");
+            Dictionary.Add("widgets_WidgetSettingsTabHeader", "Widget Settings");
         }
     }
 }

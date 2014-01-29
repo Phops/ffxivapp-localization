@@ -52,6 +52,7 @@ namespace FFXIVAPP.Localization.Japanese
             Dictionary.Add("log_TranslateYellHeader", "Yellを翻訳する");
             Dictionary.Add("log_EnableAllHeader", "すべて有効にする");
             Dictionary.Add("log_TranslateAllianceHeader", "Allianceチャットを翻訳する");
+            Dictionary.Add("log_GitHubButtonText", "Open Project Source (GitHub)");
         }
     }
 }

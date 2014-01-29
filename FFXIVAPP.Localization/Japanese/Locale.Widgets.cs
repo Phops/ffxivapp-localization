@@ -44,6 +44,17 @@ namespace FFXIVAPP.Localization.Japanese
             Dictionary.Add("widgets_CurrentWidgetHeader", "現在ターゲットウィジェット");
             Dictionary.Add("widgets_EnableClickThroughHeader", "ウィジェット上のクリックを下に通す");
             Dictionary.Add("widgets_WidgetOpacityHeader", "ウィジェット透過率");
+            Dictionary.Add("widgets_GitHubButtonText", "Open Project Source (GitHub)");
+            Dictionary.Add("widgets_ShowTitlesOnWidgetsHeader", "Show Titles On Widgets");
+            Dictionary.Add("widgets_ColorsTabHeader", "Colors");
+            Dictionary.Add("widgets_DefaultProgressBarForegroundHeader", "Default Progress Bar Foreground");
+            Dictionary.Add("widgets_UIScaleHeader", "UI Scale");
+            Dictionary.Add("widgets_SortDirectionHeader", "Sort Direction");
+            Dictionary.Add("widgets_SortPropertyHeader", "Sort Property");
+            Dictionary.Add("widgets_DisplayPropertyHeader", "Display Property");
+            Dictionary.Add("widgets_PlayerVisibilityThresholdHeader", "Player Visibility Threshold");
+            Dictionary.Add("widgets_EnmityShowCurrentTargetInfoHeader", "Show Current Target");
+            Dictionary.Add("widgets_WidgetSettingsTabHeader", "Widget Settings");
         }
     }
 }

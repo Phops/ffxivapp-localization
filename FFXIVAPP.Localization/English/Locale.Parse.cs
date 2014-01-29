@@ -1045,9 +1045,9 @@ namespace FFXIVAPP.Localization.English
             Dictionary.Add("parse_OverallTotalsBuffsHeader", "Overall Totals (Buffs)");
             Dictionary.Add("parse_BasicCombinedDisplaySettingsTabHeader", "Basic Comb. Display Settings");
             Dictionary.Add("parse_ActiveText", "Active");
-            Dictionary.Add("parse_OverallTotalsCombinedDamageHeader","Overall Totals (Comb. Damage)");
-            Dictionary.Add("parse_OverallTotalsCombinedHealingHeader","Overall Totals (Comb. Healing");
-            Dictionary.Add("parse_OverallTotalsCombinedDamageTakenHeader","Overall Totals (Comb. Damage Taken)");
+            Dictionary.Add("parse_OverallTotalsCombinedDamageHeader", "Overall Totals (Comb. Damage)");
+            Dictionary.Add("parse_OverallTotalsCombinedHealingHeader", "Overall Totals (Comb. Healing)");
+            Dictionary.Add("parse_OverallTotalsCombinedDamageTakenHeader", "Overall Totals (Comb. Damage Taken)");
         }
     }
 }

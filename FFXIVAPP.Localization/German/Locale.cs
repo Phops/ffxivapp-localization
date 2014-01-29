@@ -48,6 +48,9 @@ namespace FFXIVAPP.Localization.German
                 case "parse":
                     SetParsePluginLocale();
                     break;
+                case "radar":
+                    SetRadarPluginLocale();
+                    break;
                 case "log":
                     SetLogPluginLocale();
                     break;
@@ -59,6 +62,7 @@ namespace FFXIVAPP.Localization.German
                     SetEventPluginLocale();
                     SetInformerPluginLocale();
                     SetParsePluginLocale();
+                    SetRadarPluginLocale();
                     SetLogPluginLocale();
                     SetWidgetsPluginLocale();
                     break;

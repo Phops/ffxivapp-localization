@@ -47,6 +47,11 @@ namespace FFXIVAPP.Localization.English
             Dictionary.Add("event_VolumeHeader", "Volume");
             Dictionary.Add("event_VolumeLabel", "Volume:");
             Dictionary.Add("event_TestSoundButtonText", "Test");
+            Dictionary.Add("event_GitHubButtonText", "Open Project Source (GitHub)");
+            Dictionary.Add("event_EventOptionsHeader", "Event Options");
+            Dictionary.Add("event_SoundOptionsHeader", "Sound Options");
+            Dictionary.Add("event_ExecutableOptionsHeader", "Executable Options");
+            Dictionary.Add("event_GlobalVolumeHeader", "Global Volume");
         }
     }
 }

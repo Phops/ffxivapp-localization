@@ -49,6 +49,10 @@ namespace FFXIVAPP.Localization.English
             Dictionary.Add("informer_EnmityHeader", "Enmity");
             Dictionary.Add("informer_NameLabel", "Name:");
             Dictionary.Add("informer_EnmityPercentHeader", "Enmity %");
+            Dictionary.Add("informer_GitHubButtonText", "Open Project Source (GitHub)");
+            Dictionary.Add("informer_StatusEntriesHeader", "Status Entries");
+            Dictionary.Add("informer_DurationHeader", "Duration");
+            Dictionary.Add("informer_IDHeader", "ID");
         }
     }
 }
