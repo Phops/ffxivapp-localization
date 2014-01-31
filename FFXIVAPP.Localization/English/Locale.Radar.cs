@@ -40,23 +40,23 @@ namespace FFXIVAPP.Localization.English
             Dictionary.Add("radar_PCShowNameHeader", "PC Show Name");
             Dictionary.Add("radar_PCShowHPPercentHeader", "PC Show HP Percent");
             Dictionary.Add("radar_PCShowJobHeader", "PC Show Job");
-            Dictionary.Add("radar_PCShowDistance", "PC Show Distance");
+            Dictionary.Add("radar_PCShowDistanceHeader", "PC Show Distance");
             Dictionary.Add("radar_NPCShowHeader", "NPC Show");
             Dictionary.Add("radar_NPCShowNameHeader", "NPC Show Name");
             Dictionary.Add("radar_NPCShowHPPercentHeader", "NPC Show HP Percent");
-            Dictionary.Add("radar_NPCShowDistance", "NPC Show Distance");
+            Dictionary.Add("radar_NPCShowDistanceHeader", "NPC Show Distance");
             Dictionary.Add("radar_MonsterShowHeader", "Monster Show");
             Dictionary.Add("radar_MonsterShowNameHeader", "Monster Show Name");
             Dictionary.Add("radar_MonsterShowHPPercentHeader", "Monster Show HP Percent");
-            Dictionary.Add("radar_MonsterShowDistance", "Monster Show Distance");
+            Dictionary.Add("radar_MonsterShowDistanceHeader", "Monster Show Distance");
             Dictionary.Add("radar_GatheringShowHeader", "Gathering Show");
             Dictionary.Add("radar_GatheringShowNameHeader", "Gathering Show Name");
             Dictionary.Add("radar_GatheringShowHPPercentHeader", "Gathering Show HP Percent");
-            Dictionary.Add("radar_GatheringShowDistance", "Gathering Show Distance");
+            Dictionary.Add("radar_GatheringShowDistanceHeader", "Gathering Show Distance");
             Dictionary.Add("radar_OtherShowHeader", "Other Show");
             Dictionary.Add("radar_OtherShowNameHeader", "Other Show Name");
             Dictionary.Add("radar_OtherShowHPPercentHeader", "Other Show HP Percent");
-            Dictionary.Add("radar_OtherShowDistance", "Other Show Distance");
+            Dictionary.Add("radar_OtherShowDistanceHeader", "Other Show Distance");
         }
     }
 }
