@@ -69,7 +69,7 @@ namespace FFXIVAPP.Localization.German
             Dictionary.Add("app_SettingsToolTip", "Einstellungen");
             Dictionary.Add("app_TabSettingsTabHeader", "Tab Einstellungen");
             Dictionary.Add("app_UpdateColorButtonText", "Farbe updaten");
-            Dictionary.Add("app_VersionHeader", "Versionsinformationen");
+            Dictionary.Add("app_VersionInformationHeader", "Versionsinformationen");
             Dictionary.Add("app_VersionLabel", "Version:");
             Dictionary.Add("app_WarningMessage", "Warnung!");
             Dictionary.Add("app_YesButtonText", "Ja");
@@ -93,6 +93,21 @@ namespace FFXIVAPP.Localization.German
             Dictionary.Add("app_AlwaysReadUpdatesMessage", "Immer für alle Änderungen lesen Sie die Update-Geschichte.");
             Dictionary.Add("app_UpdateNotesHeader", "Update Notes");
             Dictionary.Add("app_ChangesOnRestartMessage", "*Changes will take place after restarting the application.");
+            Dictionary.Add("app_AvailablePluginsTabHeader", "Available Plugins");
+            Dictionary.Add("app_PluginSourcesTabHeader", "Plugin Sources");
+            Dictionary.Add("app_SourceLabel", "Source:");
+            Dictionary.Add("app_EnabledHeader", "Enabled");
+            Dictionary.Add("app_VersionHeader", "Version");
+            Dictionary.Add("app_StatusHeader", "Status");
+            Dictionary.Add("app_FilesHeader", "Files");
+            Dictionary.Add("app_SourceURIHeader", "SourceURI");
+            Dictionary.Add("app_AddUpdateSourceButtonText", "Add Or Update Source");
+            Dictionary.Add("app_RefreshPluginsButtonText", "Refresh Plugins");
+            Dictionary.Add("app_UnInstallButtonText", "Un-Install");
+            Dictionary.Add("app_InstallButtonText", "Install");
+            Dictionary.Add("app_AddOrUpdateSourceButtonText", "Add Or Update Source");
+            Dictionary.Add("app_NameHeader", "Name");
+            Dictionary.Add("app_UpdateToolTip", "Update");
         }
     }
 }

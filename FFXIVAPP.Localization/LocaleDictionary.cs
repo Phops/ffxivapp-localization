@@ -1,5 +1,5 @@
 ﻿// FFXIVAPP.Localization
-// LocaleDictionary.cs
+// ResourceDictionary.cs
 // 
 // Copyright © 2013 ZAM Network LLC
 // All rights reserved.

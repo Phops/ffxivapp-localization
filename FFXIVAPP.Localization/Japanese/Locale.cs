@@ -22,13 +22,14 @@
 // WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE 
 // USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
 
+using System.Linq;
 using System.Windows;
 
 namespace FFXIVAPP.Localization.Japanese
 {
     internal static partial class Locale
     {
-        private static readonly ResourceDictionary Dictionary = new ResourceDictionary();
+        private static readonly LocaleDictionary Dictionary = new LocaleDictionary();
 
         public static ResourceDictionary Context(string resourceName = "")
         {
@@ -68,7 +69,13 @@ namespace FFXIVAPP.Localization.Japanese
                     break;
             }
 
-            return Dictionary;
+            var resourceDictionary = new ResourceDictionary();
+            foreach (dynamic resource in Dictionary)
+            {
+                resourceDictionary.Add(resource.Key, resource.Value);
+            }
+
+            return resourceDictionary;
         }
     }
 }

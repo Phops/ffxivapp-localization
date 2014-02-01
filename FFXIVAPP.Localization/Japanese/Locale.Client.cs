@@ -69,7 +69,7 @@ namespace FFXIVAPP.Localization.Japanese
             Dictionary.Add("app_SettingsToolTip", "設定");
             Dictionary.Add("app_TabSettingsTabHeader", "タブ設定");
             Dictionary.Add("app_UpdateColorButtonText", "この色設定で更新する");
-            Dictionary.Add("app_VersionHeader", "バージョン情報");
+            Dictionary.Add("app_VersionInformationHeader", "バージョン情報");
             Dictionary.Add("app_VersionLabel", "バージョン:");
             Dictionary.Add("app_WarningMessage", "注意！");
             Dictionary.Add("app_YesButtonText", "はい");
@@ -93,6 +93,21 @@ namespace FFXIVAPP.Localization.Japanese
             Dictionary.Add("app_AttachProcessHelptextLabel", "*ゲーム本体を再起動あるいは二重起動している場合のみ選択");
             Dictionary.Add("app_UpdateNotesHeader", "Update Notes");
             Dictionary.Add("app_ChangesOnRestartMessage", "*変更はアプリケーション再起動後に有効になります");
+            Dictionary.Add("app_AvailablePluginsTabHeader", "Available Plugins");
+            Dictionary.Add("app_PluginSourcesTabHeader", "Plugin Sources");
+            Dictionary.Add("app_SourceLabel", "Source:");
+            Dictionary.Add("app_EnabledHeader", "Enabled");
+            Dictionary.Add("app_VersionHeader", "Version");
+            Dictionary.Add("app_StatusHeader", "Status");
+            Dictionary.Add("app_FilesHeader", "Files");
+            Dictionary.Add("app_SourceURIHeader", "SourceURI");
+            Dictionary.Add("app_AddUpdateSourceButtonText", "Add Or Update Source");
+            Dictionary.Add("app_RefreshPluginsButtonText", "Refresh Plugins");
+            Dictionary.Add("app_UnInstallButtonText", "Un-Install");
+            Dictionary.Add("app_InstallButtonText", "Install");
+            Dictionary.Add("app_AddOrUpdateSourceButtonText", "Add Or Update Source");
+            Dictionary.Add("app_NameHeader", "Name");
+            Dictionary.Add("app_UpdateToolTip", "Update");
         }
     }
 }

@@ -69,7 +69,7 @@ namespace FFXIVAPP.Localization.French
             Dictionary.Add("app_SettingsToolTip", "Paramètres");
             Dictionary.Add("app_TabSettingsTabHeader", "Paramètres des onglets");
             Dictionary.Add("app_UpdateColorButtonText", "Mettre à jour la couleur");
-            Dictionary.Add("app_VersionHeader", "Information des versions");
+            Dictionary.Add("app_VersionInformationHeader", "Information des versions");
             Dictionary.Add("app_VersionLabel", "Version:");
             Dictionary.Add("app_WarningMessage", "Avertissement!");
             Dictionary.Add("app_YesButtonText", "Oui");
@@ -93,6 +93,21 @@ namespace FFXIVAPP.Localization.French
             Dictionary.Add("app_AlwaysReadUpdatesMessage", "Toujours lire l'histoire de la mise à jour de tous les changements.");
             Dictionary.Add("app_UpdateNotesHeader", "Update Notes");
             Dictionary.Add("app_ChangesOnRestartMessage", "*Changes will take place after restarting the application.");
+            Dictionary.Add("app_AvailablePluginsTabHeader", "Available Plugins");
+            Dictionary.Add("app_PluginSourcesTabHeader", "Plugin Sources");
+            Dictionary.Add("app_SourceLabel", "Source:");
+            Dictionary.Add("app_EnabledHeader", "Enabled");
+            Dictionary.Add("app_VersionHeader", "Version");
+            Dictionary.Add("app_StatusHeader", "Status");
+            Dictionary.Add("app_FilesHeader", "Files");
+            Dictionary.Add("app_SourceURIHeader", "SourceURI");
+            Dictionary.Add("app_AddUpdateSourceButtonText", "Add Or Update Source");
+            Dictionary.Add("app_RefreshPluginsButtonText", "Refresh Plugins");
+            Dictionary.Add("app_UnInstallButtonText", "Un-Install");
+            Dictionary.Add("app_InstallButtonText", "Install");
+            Dictionary.Add("app_AddOrUpdateSourceButtonText", "Add Or Update Source");
+            Dictionary.Add("app_NameHeader", "Name");
+            Dictionary.Add("app_UpdateToolTip", "Update");
         }
     }
 }

@@ -24,7 +24,6 @@
 
 using System.Globalization;
 using System.Windows;
-using FFXIVAPP.Localization.Japanese;
 
 namespace FFXIVAPP.Localization
 {
@@ -38,7 +37,7 @@ namespace FFXIVAPP.Localization
             switch (culture)
             {
                 case "ja":
-                    dictionary = Locale.Context();
+                    dictionary = Japanese.Locale.Context();
                     break;
                 case "de":
                     dictionary = German.Locale.Context();
@@ -62,7 +61,7 @@ namespace FFXIVAPP.Localization
             switch (culture)
             {
                 case "ja":
-                    dictionary = Locale.Context(resourceName);
+                    dictionary = Japanese.Locale.Context(resourceName);
                     break;
                 case "de":
                     dictionary = German.Locale.Context(resourceName);

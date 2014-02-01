@@ -28,7 +28,7 @@ namespace FFXIVAPP.Localization.German
 {
     internal static partial class Locale
     {
-        private static readonly ResourceDictionary Dictionary = new ResourceDictionary();
+        private static readonly LocaleDictionary Dictionary = new LocaleDictionary();
 
         public static ResourceDictionary Context(string resourceName = "")
         {
@@ -68,7 +68,13 @@ namespace FFXIVAPP.Localization.German
                     break;
             }
 
-            return Dictionary;
+            var resourceDictionary = new ResourceDictionary();
+            foreach (dynamic resource in Dictionary)
+            {
+                resourceDictionary.Add(resource.Key, resource.Value);
+            }
+
+            return resourceDictionary;
         }
     }
 }
