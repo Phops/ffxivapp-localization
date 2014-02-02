@@ -92,7 +92,7 @@ namespace FFXIVAPP.Localization.French
             Dictionary.Add("app_NoPluginsLineTwoTextBlock", "Confirm your settings and if loaded choose a plugin icon from the tab menu.");
             Dictionary.Add("app_AlwaysReadUpdatesMessage", "Toujours lire l'histoire de la mise à jour de tous les changements.");
             Dictionary.Add("app_UpdateNotesHeader", "Update Notes");
-            Dictionary.Add("app_ChangesOnRestartMessage", "*Changes will take place after restarting the application.");
+            Dictionary.Add("app_ChangesOnRestartMessage", "Changes will take place after restarting the application.");
             Dictionary.Add("app_AvailablePluginsTabHeader", "Available Plugins");
             Dictionary.Add("app_PluginSourcesTabHeader", "Plugin Sources");
             Dictionary.Add("app_SourceLabel", "Source:");
@@ -108,6 +108,10 @@ namespace FFXIVAPP.Localization.French
             Dictionary.Add("app_AddOrUpdateSourceButtonText", "Add Or Update Source");
             Dictionary.Add("app_NameHeader", "Name");
             Dictionary.Add("app_UpdateToolTip", "Update");
+            Dictionary.Add("app_pluginUpdateTitle", "Plugin Updates!");
+            Dictionary.Add("app_pluginUpdateMessageText", "It appears some plugins have updates available. To ensure compatibility please update at your earliest convenience via the \"Update\" tab.");
+            Dictionary.Add("app_CurrentVersionHeader", "Current");
+            Dictionary.Add("app_LatestVersionHeader", "Latest");
         }
     }
 }

@@ -92,7 +92,7 @@ namespace FFXIVAPP.Localization.Japanese
             Dictionary.Add("app_NoPluginsLineTwoTextBlock", "設定確認後にタブメニューから読み込まれたプラグインアイコンを選んで下さい。");
             Dictionary.Add("app_AttachProcessHelptextLabel", "*ゲーム本体を再起動あるいは二重起動している場合のみ選択");
             Dictionary.Add("app_UpdateNotesHeader", "Update Notes");
-            Dictionary.Add("app_ChangesOnRestartMessage", "*変更はアプリケーション再起動後に有効になります");
+            Dictionary.Add("app_ChangesOnRestartMessage", "変更はアプリケーション再起動後に有効になります");
             Dictionary.Add("app_AvailablePluginsTabHeader", "Available Plugins");
             Dictionary.Add("app_PluginSourcesTabHeader", "Plugin Sources");
             Dictionary.Add("app_SourceLabel", "Source:");
@@ -108,6 +108,10 @@ namespace FFXIVAPP.Localization.Japanese
             Dictionary.Add("app_AddOrUpdateSourceButtonText", "Add Or Update Source");
             Dictionary.Add("app_NameHeader", "Name");
             Dictionary.Add("app_UpdateToolTip", "Update");
+            Dictionary.Add("app_pluginUpdateTitle", "Plugin Updates!");
+            Dictionary.Add("app_pluginUpdateMessageText", "It appears some plugins have updates available. To ensure compatibility please update at your earliest convenience via the \"Update\" tab.");
+            Dictionary.Add("app_CurrentVersionHeader", "Current");
+            Dictionary.Add("app_LatestVersionHeader", "Latest");
         }
     }
 }
