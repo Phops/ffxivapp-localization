@@ -36,14 +36,14 @@ namespace FFXIVAPP.Localization.French
             Dictionary.Add("event_SoundLabel", "Son:");
             Dictionary.Add("event_DelayHeader", "Délai (secs)");
             Dictionary.Add("event_DelayLabel", "Délai (secs):");
-            Dictionary.Add("event_EnabledHeader", "Enabled");
-            Dictionary.Add("event_CategoryLabel", "Category:");
-            Dictionary.Add("event_CategoryHeader", "Category");
-            Dictionary.Add("event_MiscellaneousLabel", "Miscellaneous");
-            Dictionary.Add("event_RefreshSoundListButtonText", "Refresh Sound List");
-            Dictionary.Add("event_ExecutableLabel", "Run:");
-            Dictionary.Add("event_SelectExecutableButtonText", "Select Executable");
-            Dictionary.Add("event_ExecutableHeader", "Run");
+            Dictionary.Add("event_EnabledHeader", "Activé");
+            Dictionary.Add("event_CategoryLabel", "Categorie:");
+            Dictionary.Add("event_CategoryHeader", "Categorie");
+            Dictionary.Add("event_MiscellaneousLabel", "Divers");
+            Dictionary.Add("event_RefreshSoundListButtonText", "Rafraîchir la liste des sons");
+            Dictionary.Add("event_ExecutableLabel", "Exécuter:");
+            Dictionary.Add("event_SelectExecutableButtonText", "Sélectionner un exécutable");
+            Dictionary.Add("event_ExecutableHeader", "Exécuter");
             Dictionary.Add("event_VolumeHeader", "Volume");
             Dictionary.Add("event_VolumeLabel", "Volume:");
             Dictionary.Add("event_TestSoundButtonText", "Test");
@@ -51,7 +51,7 @@ namespace FFXIVAPP.Localization.French
             Dictionary.Add("event_EventOptionsHeader", "Event Options");
             Dictionary.Add("event_SoundOptionsHeader", "Sound Options");
             Dictionary.Add("event_ExecutableOptionsHeader", "Executable Options");
-            Dictionary.Add("event_GlobalVolumeHeader", "Global Volume");
+            Dictionary.Add("event_GlobalVolumeHeader", "Volume global");
         }
     }
 }
